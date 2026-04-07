@@ -1,7 +1,7 @@
 {
-  "url": "https://github.com/airblast-dev/tree-sitter-gdshader",
-  "semver": false,
   "parser_version": "68268631c8b6dc093985f1246b099f81b30ea7d1",
+  "location": null,
   "lang": "gdshader",
-  "location": null
+  "url": "https://github.com/airblast-dev/tree-sitter-gdshader",
+  "semver": false
 }
